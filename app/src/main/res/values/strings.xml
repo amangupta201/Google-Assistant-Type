@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">eldervoice</string>
+    <string name="spoken_text_template">%1$s</string>
+
+    <string name="tap_speak_instruction">Tap the button and say something...</string>
+    <string name="selected_voice_text">Selected Voice: %s</string>
+    <string name="speech_recognition_not_available_title">Speech Recognition Not Available</string>
+    <string name="speech_recognition_not_available_message">Speech recognition is not available for any language on your device.</string>
+    <string name="ok">OK</string>
+    <string name="select_language_title">Select Language</string>
+    <string name="speech_prompt">Say something...</string>
+
+</resources>
